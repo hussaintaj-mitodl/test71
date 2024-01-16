@@ -1,0 +1,9 @@
+leftnav:
+- identifier: f1a11759-b9c1-4c38-84c9-1caeb1d99911
+  name: page
+  pageRef: /pages/page
+  weight: 10
+- identifier: 772b9007-8e23-4667-ae6c-e6a3f4945ecc
+  name: google
+  pageRef: /links/google
+  weight: 20
