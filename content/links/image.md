@@ -2,7 +2,7 @@
 backup_url: ''
 content_type: link
 is_defunct: ''
-is_image: false
+is_image: true
 license: externally-managed
 text: Google
 title: Image
